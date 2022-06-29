@@ -53,7 +53,7 @@ class Researches extends Component
 
         foreach ($this->researchLines as $line)
         {
-            $scraping_path = "C:\LaravelProjects\app-gene-dictionary\public\js\Scraping\index.js";
+            $scraping_path = "C:\LaravelProjects\app-gene-dictionary-final\public\js\Scraping\index.js";
 
             $command = (
                 "node "
